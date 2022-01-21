@@ -1,0 +1,11 @@
+body {
+   margin: 0;
+   padding: 0;
+}
+.header {
+    background-image: url("./assets/image/12345.jpg")
+    
+}
+.lenguage-name {
+    color: #ffffff;
+}
