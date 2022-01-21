@@ -93,6 +93,8 @@ ul {
     border-top: 1px solid rgba(255,255,255,0.5);
 }
 footer {
+    display: flex;
+    justify-content:center;
     height: 53px;
     position: relative;
     margin-top: 40px;
@@ -110,7 +112,7 @@ footer {
 }
 .footer-logo {
     float: left;
-    margin: 15px 70px 0 20px;
+    margin: 15px 70px 0 0px;
 }
 .footer-copy {
     float: left;
