@@ -92,7 +92,7 @@ ul {
     cursor: pointer;  
     border-top: 1px solid rgba(255,255,255,0.5);
 }
-footer {
+.footer-wrapar {
     display: flex;
     justify-content:center;
     height: 53px;
@@ -141,4 +141,22 @@ footer {
     text-align: center;
     opacity: .8;
     color: #000;
+}
+.icon {
+    font-size: 50px;
+    padding: 10px 30px 20px 5px;
+}
+.discription-item {
+    width: 400px;
+    float: left;
+    display: flex;
+    align-items: center;
+    margin: 0 10px 40px 10px;
+    
+}.first-item-text {
+    font-size: 18px;
+    margin: 0 0 10px;
+}
+.first-item-seconed-text {
+    margin: 0;
 }
