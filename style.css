@@ -3,7 +3,9 @@ body {
    padding: 0;
 }
 .header {
-    background-image: url("./assets/image/12345.jpg")
+    background-image: url("./assets/image/12345.jpg");
+    display: flex;
+    align-items: center;
 }
 .lenguage-name {
     color: #ffffff;
