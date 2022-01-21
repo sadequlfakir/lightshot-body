@@ -3,6 +3,12 @@ body {
    padding: 0;
    font-family: sans-serif;
 }
+a {
+    text-decoration: none;
+}
+ul {
+    list-style: none;
+}
 .header {
     background-image: url("./assets/image/12345.jpg");
     display: flex;
@@ -85,4 +91,10 @@ body {
     text-shadow: 0 1px 1px #000;
     cursor: pointer;  
     border-top: 1px solid rgba(255,255,255,0.5);
+}
+.footer-item-menu {
+    display: flex;
+}
+.footer-item-head {
+    margin: 0 25px 0 0;
 }
