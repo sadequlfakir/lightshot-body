@@ -92,9 +92,28 @@ ul {
     cursor: pointer;  
     border-top: 1px solid rgba(255,255,255,0.5);
 }
+footer {
+    height: 53px;
+    position: relative;
+    margin-top: 40px;
+    border-top: 1px solid rgba(0,0,0,0.2);
+    border-bottom: 1px solid rgba(255,255,255,0.6);
+}
 .footer-item-menu {
     display: flex;
+    float: left;
+    margin: 15px 0 0;
+    padding: 0;
 }
 .footer-item-head {
     margin: 0 25px 0 0;
+}
+.footer-logo {
+    float: left;
+    margin: 15px 70px 0 20px;
+}
+.footer-copy {
+    float: left;
+    margin: 15px 0 0;
+    padding: 0;
 }
