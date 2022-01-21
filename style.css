@@ -119,3 +119,14 @@ footer {
     margin: 15px 0 0;
     padding: 0;
 }
+.full-page {
+    position: relative;
+    width: 970px;
+    margin: 0 auto;
+}
+.page-head {
+    background-repeat: no-repeat;
+    position: relative;
+    height: 285px;
+    background-image: url("./assets/image/background.jpg");
+}
