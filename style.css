@@ -127,6 +127,18 @@ footer {
 .page-head {
     background-repeat: no-repeat;
     position: relative;
-    height: 285px;
-    background-image: url("./assets/image/background.jpg");
+    height: 330px;
+    background-image: url("./assets/image/background.png");
+}
+.page-head-text {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    bottom: 8px;
+    width: 100%;
+    font: bold 30px Arial;
+    text-shadow: 0 1px 1px #fff;
+    text-align: center;
+    opacity: .8;
+    color: #000;
 }
