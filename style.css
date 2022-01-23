@@ -142,13 +142,21 @@ ul {
     opacity: .8;
     color: #000;
 }
+.discription {
+    padding: 50px 50px 15px;
+    display: grid;
+    grid-template-columns:  auto auto;
+    
+}
 .icon {
     font-size: 50px;
     padding: 10px 30px 20px 5px;
+    color: transparent;
+    background: linear-gradient( #5562c2, black);
+    -webkit-background-clip: text;
 }
 .discription-item {
     width: 400px;
-    float: left;
     display: flex;
     align-items: center;
     margin: 0 10px 40px 10px;
@@ -159,4 +167,11 @@ ul {
 }
 .first-item-seconed-text {
     margin: 0;
+}
+.media {
+    padding: 0 50px;
+}
+.title-media {
+    font: bold 18px Arial;
+    margin: 0 0 10px;
 }
