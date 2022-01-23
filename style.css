@@ -137,7 +137,12 @@ ul {
     border-right: 1px solid #2b2e2c ;
 }
 .Mac {
-    font-size: 20px;
+    font-size: 24px;
+    padding: 5px 10px;
+    border-right: 1px solid #2b2e2c ;
+}
+.fa-android {
+    font-size: 17px;
     padding: 5px 10px;
     border-right: 1px solid #2b2e2c ;
 }
