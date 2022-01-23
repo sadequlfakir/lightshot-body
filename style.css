@@ -78,11 +78,12 @@ ul {
 }
 .Download-text {
     color: #ffffff;
+    padding: 0 8px;
 }
 .fa-download {
     color: #ffffff;
-    padding: 0 5px;
-    border-right: 1px solid #2b2e2c ;
+    padding: 0 8px;
+    border-right: 1px solid #070807 ;
 }
 .Download-button {
     display: flex;
