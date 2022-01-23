@@ -229,7 +229,7 @@ ul {
 .media-item {
     margin: 0 40px;
 }
-/** image slider*/
+/** image slider start*/
 .slider {
     width: 320px;
     height: 240px;
@@ -277,3 +277,4 @@ ul {
     border-radius: 50px;
     background-color: lightgreen;
   }
+  /** image slider end */
