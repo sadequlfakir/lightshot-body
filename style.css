@@ -82,6 +82,7 @@ ul {
 .fa-download {
     color: #ffffff;
     padding: 0 5px;
+    border-right: 1px solid #2b2e2c ;
 }
 .Download-button {
     display: flex;
